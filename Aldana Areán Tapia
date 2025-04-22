@@ -1,0 +1,3 @@
+git add
+git commit -m "Añadir página inicial y estilo básico"
+git push origin main
